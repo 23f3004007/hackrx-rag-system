@@ -9,4 +9,4 @@ PyPDF2
 python-docx
 requests
 python-dotenv
-numpy
+numpy==1.26.4
