@@ -11,7 +11,7 @@ from utils import (
 )
 
 load_dotenv()
-GROQ_API_KEY = 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
+GROQ_API_KEY = "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"
 if not GROQ_API_KEY:
     raise RuntimeError("Please set GROQ_API_KEY in .env")
 
